@@ -32,7 +32,6 @@
       "meta",
       "nav",
       "noscript",
-      "ol",
       "p",
       "path",
       "script",
@@ -160,7 +159,6 @@
       "mt-n3",
       "mx-2",
       "mx-auto",
-      "mx-xl-auto",
       "my-3",
       "nav",
       "nav-item",
@@ -228,9 +226,6 @@
       "wrap"
     ],
     "ids": [
-      "1-airetos-bundler",
-      "1-custom-bundler",
-      "2-javascript-sdk",
       "TableOfContents",
       "account-abstraction",
       "airetos-bundler",

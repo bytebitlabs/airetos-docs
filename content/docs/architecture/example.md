@@ -1,11 +1,11 @@
 ---
-title: "Example Guide"
-description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
+title: "Concept"
+description: ""
 summary: ""
-date: 2023-09-07T16:04:48+02:00
-lastmod: 2023-09-07T16:04:48+02:00
+date:
+lastmod:
 draft: false
-weight: 810
+weight: 201
 toc: true
 seo:
   title: "" # custom title (optional)
