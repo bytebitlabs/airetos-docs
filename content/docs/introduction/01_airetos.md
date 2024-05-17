@@ -16,4 +16,4 @@ seo:
 
 In the rapidly evolving blockchain ecosystem, account abstraction and custom bundlers present an opportunity to enhance the capabilities of decentralized applications (dApps) and provide extensible services to users.
 
-Airetos provides a novel approach that leverages account abstraction and a custom bundler to enable the integration of additional services, such as Know Your Transaction (KYT) and Know Your Customer (KYC), into blockchain transactions.
+Airetos provides a novel approach that leverages account abstraction and a custom bundler to enable the integration of prescript which is additional services, such as Know Your Transaction (KYT) and Know Your Customer (KYC), into blockchain transactions.

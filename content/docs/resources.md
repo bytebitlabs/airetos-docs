@@ -2,8 +2,8 @@
 title: "Resources"
 description: ""
 summary: ""
-date: 2024-02-27T09:30:56+01:00
-lastmod: 2024-02-27T09:30:56+01:00
+date:
+lastmod:
 draft: false
 weight: 999
 toc: true
@@ -14,4 +14,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
-Link to valuable, relevant resources.
+1. [Account Abstraction](https://ethereum.org/en/roadmap/account-abstraction/)
+2. [ERC4337](https://www.erc4337.io/)
+3. [Viem](https://viem.sh/)
+4. [Permissionless](https://docs.pimlico.io/permissionless)
+5. [Tendermint](https://tendermint.com/)
+
